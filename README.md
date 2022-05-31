@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bmcampbell-intel
-- 👀 I’m interested in ...learing, applying, and excelling in Python.
-- 🌱 I’m currently learning ...Python and Java
+- 👀 I’m interested in ...learing Python.
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...automation for post-Si testing environments and website development
 - 📫 How to reach me ...email or teams (brian.m.campbell@intel.com)
 
